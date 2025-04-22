@@ -70,7 +70,7 @@ The dashboard integrates roster analysis, transfer simulation, and financial vis
 ## Observable Notebook
 
 ### FIFA Team Trade Simulator
-**Notebook**: [FIFA Team Trade Simulator](https://observablehq.com/d/55ec80ca780b07ed)  
+**Notebook**: [FIFA Team Trade Simulator](https://observablehq.com/d/35d872661d7268c4)  
 **Features**:
 - Real-time player valuation tracking
 - Interactive trade proposal interface
@@ -79,11 +79,11 @@ The dashboard integrates roster analysis, transfer simulation, and financial vis
 - Three-way trade simulation
 
 ### FIFA 2022 Full Dataset Importer
-**Notebook**: [FIFA Team Trade Simulator](https://observablehq.com/d/35d872661d7268c4)
+**Notebook**: [FIFA 2022 Full Dataset Importer](https://observablehq.com/d/55ec80ca780b07ed)
 **Features**:
 - Complete player stats import (over 90 attributes)
 - Dynamic data filtering
-- Age progression modeling
+- dashboard UI generator
 
 ## Project Usage
 
@@ -93,10 +93,10 @@ The dashboard integrates roster analysis, transfer simulation, and financial vis
 - Add players to the sell list to simulate outgoing transfers
 - Add players to the purchase list to simulate incoming transfers
 - View real-time updates to:
-    - - Squad market value
-- - Wage budget
-- - Net transfer profit/loss
-- - Projected financial position
+    - Squad market value
+    - Wage budget
+    - Net transfer profit/loss
+    - Projected financial position
 
 
 ## Usage of GenAI  
